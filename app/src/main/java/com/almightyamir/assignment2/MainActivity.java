@@ -14,8 +14,6 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        String test = "Hello World";
-
         Float desiredSp = 30.0f;
         float density  = getResources().getDisplayMetrics().density;
 
