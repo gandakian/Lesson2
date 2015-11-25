@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_string">A fresh take on Android vs iOS</string>
+    <string name="body_string">There is no doubt that Android and iOS are the most popular mobile operating systems out there — there are dedicated camps for each and superb devices on either side too. Both of them are constantly evolving, even borrowing features from each other. But from a long-time Android users perspective, what exactly do you stand to gain or lose by switching to iOS?</string>
+    <string name="footer_string">To find out more, read the comparisions between Android and iOS</string>
+</resources>
